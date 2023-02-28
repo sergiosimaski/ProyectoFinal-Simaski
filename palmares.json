@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "goleador": "Mariano Pavone",
+        "club": "Quilmes",
+        "goles": 3500,
+        "imagen": "marianopavone.avif"
+    },
+    {
+        "id": 2,
+        "goleador": "Mario Alberto Kempes",
+        "club": "Instituto",
+        "goles": 4000,
+        "imagen": "kempes.jpg"
+    },
+    {
+        
+        "id": 3,
+        "goleador": "Julian Alvarez",
+        "club": "River Plate",
+        "goles": 5500,
+        "imagen": "araña.webp"
+    },
+    {
+        "id": 4,
+        "goleador": "Gonzalo Klusener",
+        "club": "Talleres",
+        "goles": 2580,
+        "imagen": "klusener.jpg"
+    },
+    {
+        "id": 5,
+        "goleador": "Lionel Messi",
+        "club": "Barcelona FC",
+        "goles": 9895,
+        "imagen": "messi.jpg"
+    },
+    {
+        "id": 6,
+        "goleador": "Nahuel Bustos",
+        "club": "Talleres",
+        "goles": 3750,
+        "imagen": "nahuelbustos.jpeg"
+    }
+]
